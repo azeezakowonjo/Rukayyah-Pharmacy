@@ -1,0 +1,1 @@
+{ font-family: sans-serif; margin: 20px; } h1 { color: #333; }
